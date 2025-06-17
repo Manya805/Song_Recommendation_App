@@ -6,7 +6,7 @@ A visually engaging and intelligent **Streamlit web app** that recommends songs 
 
 ## 🚀 Live Demo
 
-👉 [Try it Now](https://your-deployment-link.streamlit.app)  
+👉 [Try it Now](https://songrecommendationapp-fuseg9fcnbfbzspig2y9da.streamlit.app/)
 *(Replace with your deployed Streamlit URL)*
 
 ---
@@ -59,7 +59,6 @@ A visually engaging and intelligent **Streamlit web app** that recommends songs 
   - `Beats Per Minute (BPM)`
   - `Energy`, `Danceability`
   - `Loudness`, `Valence`, `Popularity`, etc.
-- Source: [Kaggle Spotify Dataset (if applicable)]
 
 ---
 
