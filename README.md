@@ -7,7 +7,7 @@ A visually engaging and intelligent **Streamlit web app** that recommends songs 
 ## 🚀 Live Demo
 
 👉 [Try it Now](https://songrecommendationapp-fuseg9fcnbfbzspig2y9da.streamlit.app/)
-*(Replace with your deployed Streamlit URL)*
+
 
 ---
 
