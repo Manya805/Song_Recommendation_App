@@ -87,3 +87,9 @@ pip install -r requirements.txt
 ## 3. Run the Streamlit app
 
 streamlit run app.py
+
+```
+
+## 🙋‍♀️ Contributions
+Pull requests are welcome!
+For major changes, please open an issue first to discuss what you’d like to modify or improve.
