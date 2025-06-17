@@ -65,9 +65,9 @@ A visually engaging and intelligent **Streamlit web app** that recommends songs 
 
 ## 📦 Installation & Running Locally
 
-## Clone the repo
 
 ```bash
+## 1. Clone the repository
 git clone https://github.com/your-username/song-recommender.git
 cd song-recommender
 
